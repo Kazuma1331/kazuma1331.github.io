@@ -2,7 +2,7 @@
 
 /*header,footer共通----------------------------------------------*/
 header, footer {
-	background-image: url(../images/background.jpg);
+	background-image: url(background.jpg);
 	background-position: center;
 	background-size: cover;
 }
@@ -101,7 +101,7 @@ body {
 }
 /*indexトップページ--------------------------------------------------*/
 .first-view {
-	background-image: url(../images/garden.jpeg);
+	background-image: url(garden.jpeg);
 	background-size: cover;
 	background-position: left bottom;
 	height: calc(100vh - 110px);
@@ -244,7 +244,7 @@ body {
 
 /*ACCESSページーーーーーーーーーーーーーーーーーーーーーーーーーーー*/
 .h1set {
-	background-image: url(../images/exterior-night.jpeg);
+	background-image: url(exterior-night.jpeg);
 	background-size: cover;
 	background-position: right center;
 	text-shadow: 5px 5px 10px #fff;
@@ -302,7 +302,7 @@ textarea {
 select {
 	width: 100%;
 	max-width: 250px;
-	background: rgba(255, 255, 255, .5) url(../images/arrow.png) no-repeat 98% 50% / 17px 10px;
+	background: rgba(255, 255, 255, .5) url(arrow.png) no-repeat 98% 50% / 17px 10px;
 	border: 1.5px solid #000;
 	border-radius: 10px;
 	padding: 10px;
@@ -336,7 +336,7 @@ input[type="radio"] {
 
 /*items------------------------------------------------------------------*/
 .sentences {
-	background-image: url(../images/exterior.jpeg);
+	background-image: url(exterior.jpeg);
 	background-size: cover;
 	background-position: left top;
 	text-shadow: 5px 5px 10px #fff;
@@ -441,7 +441,7 @@ input[type="radio"] {
 }
 /*concept-page-----------------------------------------------------------*/
 .concept-h1set {
-	background-image: url(../images/amulog.jpeg);
+	background-image: url(amulog.jpeg);
 	background-size: cover;
 	background-position: right center;
 	text-shadow: 5px 5px 10px #fff;
@@ -632,7 +632,7 @@ input[type="radio"] {
 	display: block;
 	width: 44px;
 	height: 34px;
-	background-image: url(../images/icon-menu.png);
+	background-image: url(icon-menu.png);
 	background-size: 50%;
 	background-position: center;
 	background-repeat: no-repeat;
